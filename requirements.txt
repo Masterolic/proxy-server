@@ -1,3 +1,5 @@
 #flask==2.1.2
 Flask==1.1.4
 requests
+Jinja2==2.11.3
+MarkupSafe==1.1.1
